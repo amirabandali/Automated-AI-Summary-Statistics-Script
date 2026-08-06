@@ -6,7 +6,7 @@ This is a python script that allows users to input article urls and receives an 
 
 # Python Script Code
 
-The code for this project.
+This is the python code for this project:
 [View Automated AI Summary Statistics Script Code](Automated%20AI%20Summary%20Statistics%20Script.py)
 
 ---
